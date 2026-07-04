@@ -207,4 +207,6 @@ LinkedIn: https://linkedin.com/in/yourprofile
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a star!# Movie-Recommendation-System
+## 🚀 Live Demo
+
+🌐 https://movie-recommendation-system-d5eriqgjsi3awkfjtzkugg.streamlit.app/
